@@ -100,4 +100,9 @@
 <ol> Kubectl get po <kbd> podname </kbd> and check for its <kbd> state </kbd> </ol>
 <ol> Increase system resource usage </ol>
 
+<h3> Wrapping up </h3>
+<h3> If you have came reading this far I really appreciate it. If you found it helpful, please share it so you can help another developer improve their projects. </h3>
+<h3> You can connect with me : </h3>
+<h3> <a href="https://www.linkedin.com/in/12rashic/" target="_blank">LinkedIn</a></h3>
+
 ________________________________________________________________________________________________________________________________________________________________________________________________________________

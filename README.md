@@ -3,7 +3,7 @@
 <h3> <STRONG> What is Kubernetes ?</STRONG></h3>
 <h3> Kuberenetes which is also widely refered to as  <kbd> k8s </kbd>  is open-source container orchestration  technology used for managing your applications & automating deployments of software . Initially it wa founded & owned by <kbd> Google </kbd>kbd>, but now is maintained by  <kbd> Cloud Native Computing Foundation </kbd></h3>
 <H3><summary></H3>Here are 5 common k8s failures and how to fix them 🛠️ </summary> <h3> </summary>
-![alt text](C:\Users\rashi\OneDrive\Pictures\Screenshots/111.png)
+![alt text](C:/Users/rashi/OneDrive/Pictures/Screenshots/111.png)
 
 
 

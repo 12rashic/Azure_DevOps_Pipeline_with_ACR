@@ -14,7 +14,7 @@
 <h3> 🔌 Kuberenetes which is also widely refered to as  <kbd> k8s </kbd>  is open-source container orchestration  technology used for managing your applications & automating deployments of software . Initially it was founded & owned by <kbd> Google </kbd>kbd>, but now is maintained by  <kbd> Cloud Native Computing Foundation </kbd></h3>
 <h3>You can read more about it it here   <a href="https://kubernetes.io/" target="_blank">Kubernetes Overview</a>   </h3>
 
-<h3> <Strong> Why Kubernetes debugging is helpful ? </Strong> </h3>
+<h3> <Strong>  ♻️ Why Kubernetes debugging is helpful ? </Strong> </h3>
 <h3> When deploying application to kubernetes clusters , which is itself a complex system has multiple components involved , at times during  
   
   ![Static Badge](https://img.shields.io/badge/deploying-pink)  ,

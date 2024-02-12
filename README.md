@@ -30,7 +30,7 @@
 
 <h2><BOLD> Here are 5 common k8s failures and how to fix them 🛠️  </BOLD> </h2>
   
- ![Screenshot](s1.png)
+ ![Screenshot](s1.jpg)
 
 
 

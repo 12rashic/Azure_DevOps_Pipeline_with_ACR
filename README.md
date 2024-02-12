@@ -1,5 +1,6 @@
-<h2>🧩🧩 Guide to solve basic kubernetes problems 🧩🧩</h1>
-<h2>  🌼Kubernetes is a container orchestration tool ,and while working with it errors are part of it ,but it would be time saving if we knew where to debug & fix the issue, as for a beginner things might get overwhelming.
+
+<h1> 🧩🧩 Guide to solve basic kubernetes problems 🧩🧩</h1>
+<h2>  🌼Kubernetes is a container orchestration tool ,and while working with it errors are part of it ,but it would be time saving if we knew where to debug & fix the issue, as for a beginner things might get overwhelming. </h2>
   
 ![Static Badge](https://img.shields.io/badge/pods-purple)
   
@@ -9,13 +10,15 @@
 ![Static Badge](https://img.shields.io/badge/kubernetes-debugging-green)
 
 
-</h2> 
-<h3> <STRONG> What is Kubernetes ?</STRONG></h3>
-<h3> 🔌 Kuberenetes which is also widely refered to as  <kbd> k8s </kbd>  is open-source container orchestration  technology used for managing your applications & automating deployments of software . Initially it was founded & owned by <kbd> Google </kbd>kbd>, but now is maintained by  <kbd> Cloud Native Computing Foundation </kbd></h3>
-<h3>You can read more about it it here   <a href="https://kubernetes.io/" target="_blank">Kubernetes Overview</a>   </h3>
 
-<h3> <Strong>  ♻️ Why Kubernetes debugging is helpful ? </Strong> </h3>
-<h3> When deploying application to kubernetes clusters , which is itself a complex system has multiple components involved , at times during  
+<h3> <STRONG> 🔎 What is Kubernetes ?</STRONG></h3>
+   <h3> Kuberenetes which is also widely refered to as  <kbd> k8s </kbd>  is open-source container orchestration  technology used for managing your applications & automating deployments of software . Initially it was founded & owned by <kbd> Google </kbd>kbd>, but now is maintained 
+    by  <kbd> Cloud Native Computing Foundation </kbd></h3>
+    
+   <h3>You can read more about it it here   <a href="https://kubernetes.io/" target="_blank">Kubernetes Overview</a>   </h3>
+
+<h3> <Strong> ♻️ Why Kubernetes debugging is helpful ? </Strong> </h3>
+     <h3> When deploying application to kubernetes clusters , which is itself a complex system has multiple components involved , at times during  
   
   ![Static Badge](https://img.shields.io/badge/deploying-pink)  ,
 ![Static Badge](https://img.shields.io/badge/managing-magenta)  , 
@@ -28,11 +31,20 @@
  
 <br> </br>
 
+<h2>🔌Pre-requisites </h2>
+   <ol> <h3> 🟠 Kubernetes Cluster</h3></ol>
+   <ol> <h3> 🟠 Kubectl </h3></ol>
+
+<br> </br> 
+
 <h2><BOLD> Here are 5 common k8s failures and how to fix them 🛠️  </BOLD> </h2>
   
  ![Screenshot](s1.jpg)
+ 
 
+ <br> </br>
 
+<br> </br>
 
 <ol>  <h3>  🏷𝟏) 𝐈𝐦𝐚𝐠𝐞-𝐩𝐮𝐥𝐥 𝐛𝐚𝐜𝐤 𝐨𝐟𝐟 </ol> </h3>
 <ol>  <h3>  🏷2) 𝐂𝐫𝐚𝐬𝐡-𝐥𝐨𝐨𝐩 𝐛𝐚𝐜𝐤 𝐨𝐟𝐟 </ol> </h3>
@@ -99,6 +111,8 @@
 <ol> Kubectl logs <kbd> podname </kbd> </ol>
 <ol> Kubectl get po <kbd> podname </kbd> and check for its <kbd> state </kbd> </ol>
 <ol> Increase system resource usage </ol>
+
+<br> </br> 
 
 <h3> Wrapping up </h3>
 <h3> If you have came reading this far I really appreciate it. If you found it helpful, please share it so you can help another developer improve their projects. </h3>
